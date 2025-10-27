@@ -18,7 +18,7 @@ The goal is to determine which forecasting model provides the most reliable sign
 ## Results
 
 
-![XAUUSD Forecast Performance](AnhQuocVo/Predict-Gold-Price/image/download.png)
+![XAUUSD Forecast Performance](image/download.png)
 
 
 ## Skills Demonstrated

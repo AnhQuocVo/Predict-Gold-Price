@@ -20,6 +20,7 @@ The goal is to determine which forecasting model provides the most reliable sign
 
 ![XAUUSD Forecast Performance](image/download.png)
 
+The model has shown effectiveness in the short term, and it should be used to forecast on a daily basis to capture large volatility.
 
 ## Skills Demonstrated
 

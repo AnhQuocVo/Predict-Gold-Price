@@ -33,7 +33,6 @@ The model has shown effectiveness in the short term, so it should be used to for
 | Visualization        | matplotlib, seaborn         | Clear data storytelling for model comparison   |
 
 ## Value & Impact
-
 This project demonstrates the practical use of econometric forecasting for financial assets—balancing academic rigor with trading application.
-It highlights key skills in time-series modeling, performance evaluation, and financial analytics that are core to quantitative research and data-driven strategy development.
+
 
